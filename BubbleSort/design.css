@@ -1,0 +1,12 @@
+.num {
+  display: inline-block;
+  width: 20px;
+  margin: 2px;
+  background-color: blue;
+}
+.current {
+  background-color: red;
+}
+.sorted {
+  background-color: green;
+}
